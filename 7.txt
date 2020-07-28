@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is Patrick code
+=======
+This is Patrick first branch code
+
+>>>>>>> fea1
